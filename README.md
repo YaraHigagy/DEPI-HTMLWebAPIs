@@ -25,3 +25,5 @@ This project is a web-based interactive application that combines animations, dr
 - Add more animations and interactive elements.
 - Enhance the chat system with server-side integration.
 - Improve UI/UX design for better user experience.
+
+### Project's URL: [https://depi-html-web-ap-is.vercel.app/](https://depi-html-web-ap-is.vercel.app/)
